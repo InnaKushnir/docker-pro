@@ -6,7 +6,7 @@
 
 Install PostgreSQL and create db 
 ```
-git clone https://github.com/InnaKushnir/docker-project.git
+git clone https://github.com/InnaKushnir/docker-pro.git
 cd cinema API
 python -m venv venv
 source venv/bin/activate
