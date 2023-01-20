@@ -10,3 +10,4 @@ db.sqlite3
 media
 .idea
 ../.env
+.env.sample
